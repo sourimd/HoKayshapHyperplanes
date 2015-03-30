@@ -1,0 +1,3 @@
+Computed 3 hyperplanes between each pair of 3 classes using the training set(H) using HoKayshap Algorithm. The training
+set H consists of 15000 4D vectors with 5000 from each classes. The performance of the hyperplanes are then validated
+against a test data (St).
